@@ -23,6 +23,8 @@ This repository contains:
 
 *(Last updated: June 2026)*
 
+Purple Music IOS is currently closed source but will be open source soon enough.
+
 ---
 
 ## 🚀 How to Use
